@@ -1,4 +1,5 @@
 // ____DIV____//
+
 const divEl = document.getElementById('divEl');
 for (let i = 1; i <= 100; i++)  {
     const newEl = document.createElement('div');
